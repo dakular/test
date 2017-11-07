@@ -1,6 +1,6 @@
-#TEST BY DUCKULA
+# DUCKULA
 
-##-Duckula
+## -Duckula
 
 [Duckula](http://duckula.net)
 
