@@ -42,3 +42,4 @@ baz | baz  | baz
 [Duckula](http://duckula.net)
 
 ![](http://placehold.it/350x150)
+
